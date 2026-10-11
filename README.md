@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?
-    type=waving&color=0:0F172A,100:38BDF8&height=180&section=header&text=TheSharkFullCode&fontSize=40&fontColor=ffffff&animation=fadeIn" />
- 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=180&section=header&text=TheSharkFullCode&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 <h1 align="center">¡Hola! Soy Oscar 🦈</h1>
 
