@@ -16,10 +16,11 @@
 ## 👨‍💻 Sobre mí
 
 - 🚀 Llevo más de un año aprendiendo desarrollo web por mi cuenta y construyendo proyectos reales.
-- 🎓 Me estoy formando en el **Bootcamp de Gamma Tech**, practicando cada día.
+- 🧑‍🎓 Me formo de manera autodidacta: llevo más de un año aprendiendo desarrollo web y construyendo proyectos reales.
 - ⚛️ Ahora mismo estoy profundizando en **React**: componentes, props, estado y hooks.
 - 🤖 Me gusta automatizar procesos con **n8n** y funciones serverless.
-- 🎯 Mi objetivo: trabajar como desarrollador y seguir creciendo en el mundo tech.
+- 🎯 Mi objetivo: trabajar como desarrollador frontend y seguir creciendo en el mundo tech.
+- ⚛️ profundizando en **React** y empezando con **TypeScript**.
 - ♟️ Fuera del código, me encanta el **ajedrez**.
 
 ---
@@ -34,6 +35,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
 
 **Herramientas y despliegue**
 
