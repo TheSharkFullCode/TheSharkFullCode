@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=180&section=header&text=TheSharkFullCode&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?
+    type=waving&color=0:0F172A,100:38BDF8&height=180&section=header&text=TheSharkFullCode&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  ¡Hola! Soy Oscar
 </p>
-<h1 align="center">¡Hola! Soy Oscar 🦈</h1>
+<h1 align="center"> 🦈</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Desarrollador+Frontend+en+formaci%C3%B3n;React+%7C+JavaScript+%7C+Tailwind;Aprendiendo+cada+d%C3%ADa+%F0%9F%9A%80" alt="Typing SVG" />
